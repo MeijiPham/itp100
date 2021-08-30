@@ -1,0 +1,7 @@
+### Pair Programming Notes
+
+1. Why pair program? What benefits do the videos claim for the practice?\
+People pair program in order to communicate ideas with one another. This benefits both programmers because each programmer can understand the other's way of coding as well as how they execute their ideas in code. It also helps because with two people attacking one problem, it will be solved much quicker than if one person did the work. New solutions to the problem can also be developed quicker due to the exchange of ideas between each individual.
+
+2. What are the two distinct roles used in the practice of pair programming? How does having only one computer for two programmers aide in the pair adopting these roles?\
+The two roles are driver and navigator. The driver is the person typing the code. The navigator, on the other hand, is the person who suggest ways that could help the driver in typing the code. For example, if two programmers were creating a large program, the navigator would list out all the steps required to execute the program properly while the driver would translate the steps the navigator mentioned into code. Having one computer helps in adopting these roles because it allows two people to focus on one screen which makes it more efficient. The navigator or driver can quickly communicate with one another if one of them comes up with a good idea to tackle the code.   

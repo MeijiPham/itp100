@@ -1,0 +1,2 @@
+- Files installed returned a permission denied area due to it being owned by the root user. Fixed this by using `chmod`.
+- Tried to remove keys in exhaustive for second election with `pop`. Didn't work because second election may have that same key. Fixed by skipping losing candidate in the actual for loop.
